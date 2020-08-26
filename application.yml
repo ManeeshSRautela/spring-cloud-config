@@ -1,0 +1,9 @@
+my:
+   greeting: Hello People from config server
+   list:
+        values: One, Two, Three
+
+db:
+   connenction: connenction-string-here-from-config-server
+   host: 127.0.0.1
+   port: 1001
